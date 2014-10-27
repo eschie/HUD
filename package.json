@@ -1,0 +1,10 @@
+{
+    "name": "HUD",
+    "description": "Personal Heads Up Display",
+    "version": "0.0.1",
+    "dependencies": {
+        "express": "latest",
+        "jade": "latest",
+        "mongodb": "latest"
+    }
+}
